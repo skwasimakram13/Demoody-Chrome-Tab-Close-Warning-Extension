@@ -1,7 +1,7 @@
 
 # Demoody Chrome Tab Close Warning Extension
 
-This Chrome extension opens a pinned tab on startup that warns you before closing Chrome — similar to WhatsApp Web's behavior. It ensures you don't accidentally quit Chrome while working.
+This Chrome extension opens a pinned tab on startup that warns you before closing Chrome - similar to WhatsApp Web's behavior. It ensures you don't accidentally quit Chrome while working.
 
 ## 🔧 Features
 - Automatically opens a pinned tab on Chrome startup.
